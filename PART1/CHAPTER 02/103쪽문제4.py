@@ -1,0 +1,6 @@
+a = int(input())
+print (a)
+print (a+a)
+b = float(input())
+print (b)
+print (a+b)
